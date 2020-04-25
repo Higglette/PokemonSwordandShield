@@ -1,4 +1,4 @@
-name,HP,Attack,Special Attack,Max Attack,Defense,Special Defense,Max Defense,Speed,type1,type2,Legendary
+Name,HP,Attack,Special Attack,Max Attack,Defense,Special Defense,Max Defense,Speed,Type1,Type2,Legendary
 Grookey,50,65,40,65,50,40,50,65,Grass,,FALSE
 Thwackey,70,85,55,85,70,60,70,80,Grass,,FALSE
 Rillaboom,100,125,60,125,90,70,90,85,Grass,,FALSE
